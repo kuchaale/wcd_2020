@@ -39,4 +39,4 @@ Notebooks for each individual figure as well as for two data tables are in the [
 ### Tables
 | #  | Figure                                                                                                                                | Notebook                                                    | Dependencies                                  |
 |---:|:--------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------|:----------------------------------------------|
-| 1 | [Number of detected peak events per month for the three selected hotspot areas. DJF values are emphasized](tables/ogwd_events.tex) | [reproduce_Fig3.ipynb](code/reproduce_Fig3.ipynb)            |  |
+| 1 | [Number of detected peak events per month for the three selected hotspot areas](tables/ogwd_events.tex) | [reproduce_Fig3.ipynb](code/reproduce_Fig3.ipynb)            |  |
