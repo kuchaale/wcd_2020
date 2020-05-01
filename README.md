@@ -1,7 +1,7 @@
 # On the intermittency of orographic gravity wave hotspots and its importance for middle atmosphere dynamics
 **A. Kuchar, P. Sacha, R. Eichinger, Ch. Jacobi, P. Pisoft, and H. Rieder**
 
-Code used to process and visualise the model output.
+Code used to process and visualise the model and other data outputs in order to reproduce figures in the manuscript.
 Model data are available [here](http://climate-modelling.canada.ca/climatemodeldata/cmam/output/CMAM/CMAM30-SD/index.shtml).
 
 Notebooks for each individual figure as well as for two data tables are in the [`code/` directory](code), while the figures themselves are in the `plots/` directory.
