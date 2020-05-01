@@ -2,9 +2,9 @@
 **A. Kuchar, P. Sacha, R. Eichinger, Ch. Jacobi, P. Pisoft, and H. Rieder**
 
 Code used to process and visualise the model and other data outputs in order to reproduce figures in the manuscript.
-Model data are available [here](http://climate-modelling.canada.ca/climatemodeldata/cmam/output/CMAM/CMAM30-SD/index.shtml).
+Model data are available [here](http://climate-modelling.canada.ca/climatemodeldata/cmam/output/CMAM/CMAM30-SD/index.shtml). All datasets already preprocessed can be found [here](https://data.mendeley.com/datasets/j3hj7f9t67/draft?a=58611508-4e4e-4f44-8e39-c13080528787).
 
-Notebooks for each individual figure as well as for two data tables are in the [`code/` directory](code), while the figures themselves are in the `plots/` directory.
+Notebooks for each individual figure as well as for two data tables are in the [`code/` directory], while the figures themselves are in the [`plots/` directory].
 
 ### Figures
 |  #  | Figure                                                                                                                                                                                                    | Notebook                                                                              | Dependencies                                                                                                                                                             |
