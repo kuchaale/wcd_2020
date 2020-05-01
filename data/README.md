@@ -6,7 +6,7 @@ Here is a suggestion how to cite the data repository:
 And a possible BibTeX entry:
 
 ```tex
-@misc{Duarte2020,  
+@misc{Kuchar2020datav1,  
     author = {Kuchar, A.},
     title = {Accompanying data to "On the intermittency of orographic gravity wave hotspots and its importance for middle atmosphere dynamics"},  
     month = {May},
