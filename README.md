@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3780102.svg)](https://doi.org/10.5281/zenodo.3780102)
+[![Python 3.7](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-369/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # On the intermittency of orographic gravity wave hotspots and its importance for middle atmosphere dynamics
 **A. Kuchar, P. Sacha, R. Eichinger, Ch. Jacobi, P. Pisoft, and H. Rieder**
 
