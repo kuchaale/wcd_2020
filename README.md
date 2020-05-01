@@ -40,3 +40,8 @@ Notebooks for each individual figure as well as for two data tables are in the [
 | #  | Figure                                                                                                                                | Notebook                                                    | Dependencies                                  |
 |---:|:--------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------------|:----------------------------------------------|
 | 1 | [Number of detected peak events per month for the three selected hotspot areas](tables/ogwd_events.tex) | [reproduce_Fig3.ipynb](code/reproduce_Fig3.ipynb)            |  |
+
+## Required package installation
+`pip install -r requirements.txt`
+
+### References
