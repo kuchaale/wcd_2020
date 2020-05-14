@@ -51,3 +51,4 @@ Notebooks for each individual figure as well as for two data tables are in the [
 `pip install -r requirements.txt`
 
 ### References
+Kuchar, A., Sacha, P., Eichinger, R., Jacobi, C., Pisoft, P., and Rieder, H. E.: On the intermittency of orographic gravity wave hotspots and its importance for middle atmosphere dynamics, Weather Clim. Dynam. Discuss., [https://doi.org/10.5194/wcd-2020-21](https://doi.org/10.5194/wcd-2020-21), in review, 2020. 
