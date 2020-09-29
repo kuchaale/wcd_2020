@@ -5,7 +5,7 @@
 # On the intermittency of orographic gravity wave hotspots and its importance for middle atmosphere dynamics
 **A. Kuchar, P. Sacha, R. Eichinger, Ch. Jacobi, P. Pisoft, and H. Rieder**
 
-In discusssion in [Weather and Climate Dynamics](https://www.weather-clim-dynam-discuss.net/wcd-2020-21/).
+Published in [Weather and Climate Dynamics](https://wcd.copernicus.org/articles/1/481/2020/wcd-1-481-2020.html).
 
 Code used to process and visualise the model and other data outputs in order to reproduce figures in the manuscript.
 Model data are available [here](http://climate-modelling.canada.ca/climatemodeldata/cmam/output/CMAM/CMAM30-SD/index.shtml). All datasets already preprocessed can be found [here](https://data.mendeley.com/datasets/j3hj7f9t67/draft?a=58611508-4e4e-4f44-8e39-c13080528787).
